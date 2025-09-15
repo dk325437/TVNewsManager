@@ -23,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{D93B2418-1CBE-4424-8580-422F5B27E8F0}|TVNewsManager.csproj|solutionrelative:ui\\statsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D93B2418-1CBE-4424-8580-422F5B27E8F0}|TVNewsManager.csproj|c:\\users\\lenovo\\source\\repos\\tvnewsmanager\\ui\\statsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D93B2418-1CBE-4424-8580-422F5B27E8F0}|TVNewsManager.csproj|C:\\Users\\LENOVO\\source\\repos\\TVNewsManager\\ui\\statsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D93B2418-1CBE-4424-8580-422F5B27E8F0}|TVNewsManager.csproj|solutionrelative:ui\\statsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -63,8 +63,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAEwD4AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T15:00:25.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T15:00:25.259Z"
             },
             {
               "$type": "Document",
@@ -89,8 +88,7 @@
               "RelativeToolTip": "UI\\StatsForm.Designer.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAUwFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T14:39:57.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T14:39:57.787Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\TVNewsManager\\UI\\StatsForm.cs [Design]",
               "RelativeToolTip": "UI\\StatsForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T14:39:01.184Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-14T14:39:01.184Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "UI\\MainForm.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAkwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T14:19:02.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T14:19:02.729Z"
             }
           ]
         }

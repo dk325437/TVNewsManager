@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TVNewsManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e46c68af390e3c9a45f92a8fda82cc24271beda2")]
 [assembly: System.Reflection.AssemblyProductAttribute("TVNewsManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TVNewsManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
